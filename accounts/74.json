@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "turnkey-energy-338610",
+  "private_key_id": "5f23b474583b66efdb0b511b15792f6701c9d1fc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCP1nGV9H9KhXUU\nnDwONKRDMEKuJDwuveyvI5vOLPa65ZMo72Nya5GzNjBJJELmNJtvjpp2ZD0sskjE\nm4t4o/1ZLkeezgn6TP2Qv5figiz1BZgrPjmqWYxaczmwnzyDeNE3nJ5QDWj0zKsD\nMPGhsyNWyh2Ha6MUTNIuSBNlFeqLUg2syF7V95VMJox2u5q9mFlHd+1NqZ0ZHZAF\nMAHtC3WR0lbw31NrmBr61O0iZ+Zp3u+aoGOL1Ljv7SEyuasD05c0lYXkD7Zwxn1v\na7PLd+WsKi1rcQ8AJoF3igQd8rlBD24pVHQfeBpwC07/L3DvPeeumBc8luORULJk\nZ/bwAjjfAgMBAAECggEAPpvStDmJALiHpnF9CJfsWhyTIba/BX+BGxjuVDepK+AL\nBrnwuRjOgknXibbBce+7KrtRS7BFGoP9/apQ8rG68MsevKalnDBP/OYQqDUOeZa2\nTjhXJGm3GJXoKhOd5QI9Wy4OkPzNTyUZWRnAS6isfLYcVVpKUWdA44lW+9ymy35E\nSZ4IocrvAvdGUpCnq65Wtfe7sBLWWofNhSZ6YTU52M466Jl5QZBYSHPdMWF4UWXy\n8WMdDjGfR9lWcCm66zD21Iaw8g/4mWfgCxuQFOm/8TPXitKv89p+/lOI6MBCje9m\nkArU9djE+eTNtytxrUEPC6svT6ujsa3zqZonV0H23QKBgQDCS2R058zekFc4/cWt\nG8d1L+4sYgc9EoXtu1zXhsY8v2P/voaUojtE1LOQkDoYMerdPF6LemZmntOYCTpj\nKoG8SDE2zH1ZqGg/4b1OWfr+DlIKoiLcVszB1xZci8qv+DR0fajUKxfJnKbHSPvy\naZNrzCy1jKOaryYRIQ58l70I6wKBgQC9hMpPhx77XliuZSjTycJ5nIINauHpl1Im\nw79GNECSqDUGiM3nUVwjTkG5tgwHmagaU0EitR8jghIGwBOoa4brPQmZUI7eu8FX\njluamOGb6neZYwDFcjtnaa/fjIKZqtXK8WHbi6sxXG3qgy+2iEMIO6fs9TVfC/G2\nikvHiVMS3QKBgFUhSXu7kNU3sy/iaTmHAWbEQHwr23YT5qCaRnycrcEyLrOAnGEF\nkCiBdcfymbG+NWUILXi5gaKXFqj36iBHIJ8Jlp6nDIk7M6pB03tAC6xDRAkqr1GR\nqpeIEWEtUvq1Ku6bnFySIRMSUzTgMpwtTA2gYTqOy6Rb97brn/hRV99PAoGAJ4cb\nvyyajKkn6+/TbSDmvAClq3DAf7z8+HLZYSYi1bPZo2xDLdztT7vRv481wRwOULdO\nnZOTVA+b/OZw8y7CLCxF5UFFGzWj5MQfXQZIAAIOQeLBVW028KG9ee3Pi4dzIeno\nlCb0ZM43arND71lKSdxPcP/Pyuwt1PnRRmPg/M0CgYA0gJeE8OwlhdCDIsNLjSlM\n/zG23EdOz9QSyED0WLadaw0MUnds3kAllPfnk6wH/uC3l6G5CBWoiXVAC+jMA+Wj\nPZ4VCKhS0wPijsBcIM1b6ldprdejMtSMZhpx+iBqGOYLAp5a8wH2hw4qbaSe62Sk\n7bXrjvn2eYzkMHo/q23JLQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-vh75rcax3pisut7xu2s1h0ztzz@turnkey-energy-338610.iam.gserviceaccount.com",
+  "client_id": "100203338736803257950",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-vh75rcax3pisut7xu2s1h0ztzz%40turnkey-energy-338610.iam.gserviceaccount.com"
+}
